@@ -14,7 +14,7 @@ This repository contains two comprehensive projects completed during my internsh
 * **Model:** Utilized a **Random Forest Classifier** to achieve high accuracy in predicting employee turnover.
 
 ### 🔹 Dashboard Output
-[Attrition Dashboard](attrition_dashboard.png)
+![Attrition Dashboard](attrition_dashboard.png)
 
 ---
 
