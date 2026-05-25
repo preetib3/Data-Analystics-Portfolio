@@ -1,8 +1,7 @@
-# 📊 Data Analytics Internship Portfolio
+# 📊 Data Analytics Portfolio Projects
 **Author:** Preeti Bhatiya
-**Role:** Data Analytics Intern
 
-This repository contains two comprehensive projects completed during my internship. These projects demonstrate skills in **Data Cleaning**, **Machine Learning**, and **Time-Series Forecasting**.
+This repository contains two comprehensive projects demonstrating my skills in **Data Cleaning**, **Machine Learning**, and **Time-Series Forecasting**.
 
 ---
 
